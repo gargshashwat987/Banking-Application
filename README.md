@@ -1,9 +1,10 @@
 # Banking-Application
 Java Program for Banking Application System
 <br/>
-The series of menus displayed are as follows:
 
-## Display all account details:<br/>
+## The series of menus displayed are as follows:<br/>
+
+Display all account details:<br/>
 Search by account number<br/>
 Deposit the amount<br/>
 Withdraw the amount<br/>
